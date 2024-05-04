@@ -1,4 +1,4 @@
-This Report presents an Artificial Neural Network (ANN) approach to predict the Nifty 50 index, the most popular stock market index in india. 
+This project presents an Artificial Neural Network (ANN) approach to predict the Nifty 50 index, the most popular stock market index in india. 
 Comparison was done on  deep learning models like 1-D Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) recurrent neural network 
 in modeling the complex relationships present in historical stock price data. Additionally, 
 Investigation was done of  the impact of incorporating the Put call  Ratio (PCR) as an additional feature alongside stock prices.
